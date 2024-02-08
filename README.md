@@ -21,8 +21,9 @@ This project covers the following key areas:
 5. **API Server Modification:**
    Demonstrated the ability to modify API servers, showcasing expertise in adapting and extending server functionalities.
 
-## Getting Started
+Here is the GoogleSlide link:
 
-To explore and run the examples in this project, follow these steps:
+https://docs.google.com/presentation/d/1waUKF-b2pzt5R-j0a7e5pJTg33YHjpOlmLykl5e5Cos/edit?usp=sharing
+
 
 
